@@ -1,0 +1,33 @@
+const country1= 
+{
+    countryname: "India",
+    Nickname:"Men in Blue",
+    Captain: "Virat Kohli",
+    Onedaycaptain:"Rohit Sharma",
+    Coach:"Rahul Dravid",
+}
+const country2=
+{
+    countryname: "South Africa",
+    Nickname:"Proteas",
+    Captain: "Dean Elgar",
+    Onedaycaptain:"Temba Bavuma",
+    Coach:"Mark Boucher",
+}
+const country3=
+{
+    countryname: "England",
+    Nickname:"England cricket team",
+    Captain: "Joe Root",
+    Onedaycaptain:"Eoin Morgan",
+    Coach:"Chris Silverwood",
+}
+const country4=
+{
+    countryname: "New Zealand",
+    Nickname:"Black caps",
+    Captain: "Kane Williamson",
+    Onedaycaptain:"Kane W",
+    Coach:"Gary Stead",
+}
+console.log(country3.Coach);
