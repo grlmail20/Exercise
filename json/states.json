@@ -1,0 +1,120 @@
+{
+    "states":
+        [
+            {
+                "State name":"Texas",  
+                "Capital":"Austin",
+                "Population":"29 million",
+                "Area":"268,596 sq mi",
+                "Governor":"Greg Abbott",
+                "Spoken language":"English and Spanish",
+                "Time zone":"CST",
+                "Largest city":"Houston",
+                "Football Team":"Texas Longhorns"
+            },
+            {
+                "State name":"Illinois",
+                "Capital":"Springfield",
+                "Population":"12.67 million",
+                "Area":"57,915 sq mi",
+                "Governor":"JB Pritzker",
+                "Spoken language":"English",
+                "Time zone":"CST",
+                "Largest city":"Chicago",
+                "Football Team":"Chicago Bears"
+            },
+            {
+                "State name":"New York",
+                "Capital":"Albany",
+                "Population":" 19.8 million",
+                "Area":" 54,556 sq mi",
+                "Governor":"Kathy Hochul",
+                "Spoken language":"English",
+                "Time zone":"EST",
+                "Largest city":"New york city",
+                "Football Team":"New York Giants"
+            },
+            {
+                "State name":"Michigan",
+                "Capital":"Lansing",
+                "Population":"9.987 million",
+                "Area":"96,716 sq mi",
+                "Governor":"Gretchen Whitmer",
+                "Spoken language":"English",
+                "Time zone":"CST and EST",
+                "Largest city":"Detroit",
+                "Football Team":"Michigan Wolverines"
+            },
+            {
+                "State name":"Florida",
+                "Capital":"Tallahassee",
+                "Population":"21.48 million",
+                "Area":"65,758 sq mi",
+                "Governor":"Ron DeSantis ",
+                "Spoken language":"English",
+                "Time zone":"EST",
+                "Largest city":"Jacksonville",
+                "Football Team":"Florida Gators"
+            },
+            {
+                "State name":"Arizona",
+                "Capital":" Phoenix",
+                "Population":" 7.279  million",
+                "Area":"113,998 sq mi",
+                "Governor":"Doug Ducey",
+                "Spoken language":"English",
+                "Time zone":"CST",
+                "Largest city":"Phoenix",
+                "Football Team":"Arizona Cardinals"
+            },
+            {
+                "State name":"Wisconsin",
+                "Capital":"Madison",
+                "Population":"5.822 million",
+                "Area":"65,498 sq mi",
+                "Governor":"Tony Evers ",
+                "Spoken language":"English and Spanish",
+                "Time zone":"CST",
+                "Largest city":"Madison",
+                "Football Team":"Wisconsin Badgers"
+            },
+            {
+                "State name":"Montana",
+                "Capital":"Helena",
+                "Population":"1.069 million",
+                "Area":"147,040 sq mi",
+                "Governor":" Greg Gianforte",
+                "Spoken language":"English",
+                "Time zone":"Mountain Standard Time",
+                "Largest city":"Anaconda",
+                "Football Team":"Montana Grizzlies"
+            },
+            {
+                "State name":"Colorado",
+                "Capital":"Denver",
+                "Population":"5.759 million",
+                "Area":"104,185 sq mi",
+                "Governor":"Jared Polis ",
+                "Spoken language":"English and Spanish",
+                "Time zone":"Mountain Standard Time",
+                "Largest city":"Colorado Springs",
+                "Football Team":"Colorado Buffaloes"
+            },
+            {
+                "State name":"Kentucky",
+                "Capital":"Frankfort",
+                "Population":"4.468 million",
+                "Area":"40,409 sq mi",
+                "Governor":" Andy Beshear",
+                "Spoken language":"English",
+                "Time zone":"EST",
+                "Largest city":"Louisville",
+                "Football Team":"Kentucky Wildcats"
+            }
+        ]
+}
+
+
+
+
+
